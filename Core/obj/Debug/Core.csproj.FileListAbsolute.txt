@@ -1,0 +1,10 @@
+D:\ITMO\neuralNet\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\ITMO\neuralNet\Core\bin\Debug\NeuronDotNet.Core.dll
+D:\ITMO\neuralNet\Core\bin\Debug\NeuronDotNet.Core.pdb
+D:\ITMO\neuralNet\Core\obj\Debug\NeuronDotNet.Core.dll
+D:\ITMO\neuralNet\Core\obj\Debug\NeuronDotNet.Core.pdb
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\Core\bin\Debug\NeuronDotNet.Core.dll
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\Core\bin\Debug\NeuronDotNet.Core.pdb
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\Core\obj\Debug\NeuronDotNet.Core.dll
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\Core\obj\Debug\NeuronDotNet.Core.pdb

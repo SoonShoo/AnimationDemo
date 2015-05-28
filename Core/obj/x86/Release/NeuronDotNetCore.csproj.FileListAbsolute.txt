@@ -1,0 +1,5 @@
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\Core\bin\x86\Release\NeuronDotNet.Core.dll
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\Core\bin\x86\Release\NeuronDotNet.Core.pdb
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\Core\bin\x86\Release\NeuronDotNet.Core.xml
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\Core\obj\x86\Release\NeuronDotNet.Core.dll
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\Core\obj\x86\Release\NeuronDotNet.Core.pdb

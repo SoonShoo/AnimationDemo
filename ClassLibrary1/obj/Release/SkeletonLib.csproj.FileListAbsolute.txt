@@ -1,0 +1,16 @@
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\ClassLibrary1\bin\Release\ClassLibrary1.dll
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\ClassLibrary1\bin\Release\BEPUphysics.dll
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\ClassLibrary1\bin\Release\BEPUutilities.dll
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\ClassLibrary1\bin\Release\Fusion.dll
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\ClassLibrary1\bin\Release\SharpDX.XAudio2.dll
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\ClassLibrary1\bin\Release\SharpDX.dll
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\ClassLibrary1\bin\Release\SharpDX.Direct3D11.dll
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\ClassLibrary1\bin\Release\SharpDX.DXGI.dll
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\ClassLibrary1\bin\Release\OculusWrap.dll
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\ClassLibrary1\bin\Release\SharpDX.XInput.dll
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\ClassLibrary1\bin\Release\SharpDX.RawInput.dll
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\ClassLibrary1\bin\Release\NvApiWrapper.dll
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\ClassLibrary1\bin\Release\SharpDX.Desktop.dll
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\ClassLibrary1\obj\Release\ClassLibrary1.dll
+D:\ITMO\FusionEngine\FusionFramework\FusionSamples\ClassLibrary1\obj\Release\ClassLibrary1.pdb
